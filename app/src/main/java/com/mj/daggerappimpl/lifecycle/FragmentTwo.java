@@ -1,4 +1,4 @@
-package com.mj.daggerappimpl;
+package com.mj.daggerappimpl.lifecycle;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,6 +12,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+import com.mj.daggerappimpl.R;
 
 public class FragmentTwo extends Fragment {
 

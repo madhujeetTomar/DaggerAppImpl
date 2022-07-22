@@ -11,10 +11,10 @@
     android:theme="@style/Theme.DaggerAppImpl">
     <activity
       android:exported="true"
-      android:name=".FirstActivity" />
+      android:name=".lifecycle.FirstActivity" />
     <activity
       android:exported="true"
-      android:name=".MainActivity">
+      android:name=".lifecycle.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
 
